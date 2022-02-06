@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\bin\Release\UwuGrab.exe.config
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\bin\Release\UwuGrab.exe
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\bin\Release\UwuGrab.pdb
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\bin\Release\Guna.UI.dll
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.Form1.resources
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.Properties.Resources.resources
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.csproj.CopyComplete
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.exe
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.pdb
+C:\Users\Administrator\source\repos\UwuGrab\UwuGrab\obj\Release\UwuGrab.csproj.AssemblyReference.cache
