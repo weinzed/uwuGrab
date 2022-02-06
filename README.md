@@ -1,2 +1,3 @@
-# uwuGrab
-Canım sıkıldığı için yaptım.
+<p align="center">
+    <strong>Cum!</strong>
+</p>
